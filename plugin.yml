@@ -4,6 +4,5 @@ main: kim\present\instantenchant\InstantEnchant
 version: 0.1.0-DEV
 api: [4.0.0]
 author: PresentKim
-website: https://github.com/PresentKim/InstantEnchant-PMMP
 description: Instant enchant plugin
 ...
