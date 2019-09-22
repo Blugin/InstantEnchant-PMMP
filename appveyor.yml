@@ -8,7 +8,7 @@ version: "#{build}"
 branches:
   # whitelist
   only:
-    - msater
+    - master
 
 # Maximum number of concurrent jobs for the project
 max_jobs: 1
